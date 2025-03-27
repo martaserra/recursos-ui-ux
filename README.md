@@ -12,23 +12,23 @@ Bienvenido/a a este repositorio de recursos sobre **Diseño de Interfaces (UI)**
 
 ---
 
-## 📄 Artículos {#articulos}
+## 📄 Artículos
 - [Fundamentos de UX](articulos/fundamentos-ux.md)
 - [Principios de diseño de interacción](articulos/diseno-de-interacciones.md)
 
-## 🎓 Tutoriales {#tutoriales}
+## 🎓 Tutoriales 
 - [Introducción al prototipado](tutoriales/prototipado.md)
 - [Accesibilidad en diseño](tutoriales/accesibilidad.md)
 
-## 📺 Vídeos {#videos}
+## 📺 Vídeos
 - [Mejores canales de YouTube sobre UX/UI](videos/mejores-canales-youtube.md)
 
-## 🛠️ Herramientas {#herramientas}
+## 🛠️ Herramientas
 - [Lista de herramientas útiles](herramientas/herramientas.md)
 
 ---
 
-## 📢 Contribuir {#contribuir}
+## 📢 Contribuir
 
 Si tienes un recurso interesante para compartir, puedes contribuir a este repositorio:
 
