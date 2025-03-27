@@ -15,7 +15,6 @@ Bienvenido/a a este repositorio de recursos sobre **Diseño de Interfaces (UI)**
 ## 📄 Artículos {#articulos}
 - [Fundamentos de UX](articulos/fundamentos-ux.md)
 - [Principios de diseño de interacción](articulos/diseno-de-interacciones.md)
-- [Top 10 artículos sobre Usabilidad](https://www.uxables.com/diseno-ux-ui/top-10-articulos-sobre-usabilidad-ux-y-ui-de-2022/)
 
 ## 🎓 Tutoriales {#tutoriales}
 - [Introducción al prototipado](tutoriales/prototipado.md)
