@@ -23,7 +23,7 @@ Bienvenido/a a este repositorio de recursos sobre **Diseño de Interfaces (UI)**
 - [Mejores canales de YouTube sobre UX/UI](videos/mejores-canales-youtube.md)
 
 ## 🛠️ Herramientas
-- [Lista de herramientas útiles](herramientas/herramientas.md)
+- [Lista de herramientas útiles](herramientas/herramientas-utiles.md)
 
 ---
 
