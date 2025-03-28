@@ -1,4 +1,4 @@
-# Recursos de 🖥️ UI/👥 UX
+# Recursos de UI/ UX
 
 Bienvenido/a a este repositorio de recursos sobre **Diseño de Interfaces (UI)** y **Experiencia de Usuario (UX)**. Aquí encontrarás artículos, tutoriales, vídeos y herramientas para mejorar tus conocimientos en diseño digital. 🚀
 
